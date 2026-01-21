@@ -5,6 +5,7 @@ This repo contains versioned minimal repros for a Bun crash when calling
 
 ## Versions
 - `v1/` minimal open/close loop using wa-sqlite node build
+- `v2/` further-minimized loop without close
 
 ## Quick start
 1. `cd v1`
